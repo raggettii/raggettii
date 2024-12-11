@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CampusShuttle](https://github.com/raggettii/CampusShuttle)
 
-- 🌱 I’m currently learning **Next.js and Libraries which helps in object detection **
+- 🌱 I’m currently learning **Next.js and Libraries which helps in object detection**
 
 - 📫 How to reach me **jatinyadav1nov@gmail.com**
 
