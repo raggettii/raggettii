@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jatin Yadav</h1>
-<h3 align="center">Code. Learn. Iterate</h3>
-
-- 🔭 I’m currently working on [CampusShuttle](https://github.com/raggettii/CampusShuttle)
-
-- 🌱 I’m currently learning **Next.js and Libraries which helps in object detection**
-
-- 📫 How to reach me **jatinyadav1nov@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-
+<h1 align="center">Hi</h1>
+<h3 align="center">I think I am funny</h3>
 <p align="left">
 </p>
 
